@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf Alvin
-- 👀 i'm full stack developer
+- 👀 i'm front-end developer
 - 📫 How to contact me? 
       yusuuufalvin123@gmail.com
 
